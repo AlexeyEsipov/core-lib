@@ -1,4 +1,4 @@
-package ru.esipov.ws.core;
+package ru.job4j.core;
 
 
 import java.math.BigDecimal;
