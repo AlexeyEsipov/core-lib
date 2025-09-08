@@ -1,4 +1,4 @@
-package ru.job4j.core;
+package ru.job4j.core.events;
 
 
 import java.math.BigDecimal;
